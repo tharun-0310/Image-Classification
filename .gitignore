@@ -1,6 +1,6 @@
 *.png
 *.jpeg
 *.pth
-Capstone
-Dataset/
-Dataset/dataset_split/test/
+Capstone/
+Dataset/dataset_split/*
+Dataset/raw/*
