@@ -3,3 +3,4 @@
 *.pth
 Capstone
 Dataset/
+Dataset/dataset_split/test/
